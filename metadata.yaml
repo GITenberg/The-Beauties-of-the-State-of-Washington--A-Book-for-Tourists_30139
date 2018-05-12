@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '34397'
     url: http://www.gutenberg.org/2009/agents/34397
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30139#The-Beauties-of-the-State-of-Washington--A-Book-for-Tourists
 gutenberg_issued: '2009-09-30'
 gutenberg_type: Text
 identifiers:
